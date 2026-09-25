@@ -1,0 +1,6 @@
+{
+  "name": "DARSHVI - Fine Ethnic Attire",
+  "description": "Discover timeless Indian ethnic couture, handwoven Banarasi silks, and artisanal zardozi embroidery crafted by royal ateliers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
